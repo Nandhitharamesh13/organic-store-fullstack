@@ -2,8 +2,6 @@
 
 A polished, full-stack storefront demo built with React, Vite, Express and SQLite.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pravinkumar--04-black?logo=github)](https://github.com/Pravinkumar-04/-Fresh-Market-Storefront-Demo) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com/Pravinkumar-04/-Fresh-Market-Storefront-Demo)
-
 ---
 
 ## 🚀 Overview
