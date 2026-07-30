@@ -1,0 +1,14 @@
+/* Global base reset — all detailed styling is injected by App.jsx */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  isolation: isolate;
+}
