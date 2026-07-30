@@ -1,0 +1,22 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="628" rx="24" fill="#F8FAF7" />
+  <rect x="40" y="40" width="1120" height="120" rx="16" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2" />
+  <rect x="40" y="192" width="500" height="350" rx="20" fill="#E8F5E9" />
+  <rect x="580" y="192" width="520" height="120" rx="16" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2" />
+  <rect x="580" y="336" width="520" height="206" rx="16" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2" />
+  <rect x="80" y="240" width="420" height="40" rx="10" fill="#D1EAD9" />
+  <rect x="80" y="300" width="320" height="24" rx="8" fill="#C7DCCF" />
+  <rect x="80" y="340" width="360" height="24" rx="8" fill="#C7DCCF" />
+  <rect x="80" y="380" width="260" height="24" rx="8" fill="#C7DCCF" />
+  <rect x="80" y="440" width="160" height="40" rx="12" fill="#2A5E3F" />
+  <rect x="620" y="220" width="180" height="24" rx="10" fill="#E5E7EB" />
+  <rect x="820" y="220" width="220" height="24" rx="10" fill="#E5E7EB" />
+  <rect x="620" y="270" width="380" height="24" rx="10" fill="#E5E7EB" />
+  <rect x="620" y="320" width="180" height="40" rx="12" fill="#FDE68A" />
+  <rect x="620" y="380" width="180" height="40" rx="12" fill="#BBF7D0" />
+  <rect x="820" y="380" width="180" height="40" rx="12" fill="#C7D2FE" />
+  <text x="70" y="110" fill="#111827" font-family="Inter, sans-serif" font-size="36" font-weight="700">Fresh Market Demo</text>
+  <text x="70" y="150" fill="#4B5563" font-family="Inter, sans-serif" font-size="18">Generic storefront UI with product catalog, checkout, and admin dashboard.</text>
+  <rect x="580" y="520" width="240" height="48" rx="12" fill="#F8FAFC" stroke="#D1D5DB" stroke-width="1" />
+  <text x="610" y="540" fill="#6B7280" font-family="Inter, sans-serif" font-size="16">Screenshot preview</text>
+</svg>
